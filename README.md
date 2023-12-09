@@ -246,6 +246,6 @@ These results provide valuable insights into the expected financial performance 
 
 - Create a dashboard in Power BI or Tablue with the information from the implemented model and the EDA.
 
-
+- Kaggle submission.
 
 
